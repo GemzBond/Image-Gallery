@@ -1,2 +1,2 @@
 # Image-Gallery
-Beautiful iamges from Unsplash.
+Beautiful images from Unsplash.
